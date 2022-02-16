@@ -7,6 +7,7 @@
 💜 loving [react][react], [firebase][firebase] 
 
 🏡 [website][website] **|** 
+⚡ [company][zodbyte] **|** 
 📷 [instagram][instagram] **|** 
 👔 [linkedin][linkedin]
 
