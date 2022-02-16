@@ -2,7 +2,7 @@
 
 ### Aspiring software engineer & entrepreneur
 
-👨🏼‍💻 building [danteteder][website]  &  [zodbyte][zodbyte]
+👨🏼‍💻 building [danteteder][website]  &  [zodbyte][zodbyte]  
 🧠 learning [nextjs][next], [apollo][apollo], [typescript][typescript]  
 💜 loving [react][react], [firebase][firebase] 
 
