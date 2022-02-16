@@ -12,7 +12,7 @@
 👔 [linkedin][linkedin]
 
 
-[banner]: https://raw.githubusercontent.com/danteteder/danteteder/main/banner.JPG
+[banner]: https://raw.githubusercontent.com/danteteder/danteteder/main/banner.png
 [react]: http://reactjs.org
 [zodbyte]: https://zodbyte.com
 [firebase]: https://firebase.google.com
