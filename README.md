@@ -1,4 +1,26 @@
-### Hi there 👋
+[![bg][banner]][website]
+
+### Aspiring software engineer & entrepreneur
+
+👨🏼‍💻 building [danteteder][website]  &  [zodbyte][zodbyte]
+🧠 learning [nextjs][next], [apollo][apollo], [typescript][typescript]  
+💜 loving [react][react], [firebase][firebase] 
+
+🏡 [website][website] **|** 
+📷 [instagram][instagram] **|** 
+👔 [linkedin][linkedin]
+
+
+[banner]: https://raw.githubusercontent.com/danteteder/danteteder/main/banner.JPG
+[react]: http://reactjs.org
+[zodbyte]: https://zodbyte.com
+[firebase]: https://firebase.google.com
+[next]: https://nextjs.org
+[typescript]: https://www.typescriptlang.org
+[apollo]: https://www.apollographql.com/
+[website]: https://danteteder.com
+[instagram]: https://instagram.com/zodbyte
+[linkedin]: https://linkedin.com/in/dante-teder
 
 <!--
 **danteteder/danteteder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
