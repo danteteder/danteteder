@@ -5,6 +5,7 @@
 👨🏼‍💻 building [danteteder][website]  &  [zodbyte][zodbyte]  
 🧠 learning [nextjs][next], [apollo][apollo], [typescript][typescript]  
 💜 loving [react][react], [firebase][firebase] 
+🌱 what i'm [reading][reading]
 
 🏡 [website][website] **|** 
 ⚡ [company][zodbyte] **|** 
@@ -15,6 +16,7 @@
 [banner]: https://raw.githubusercontent.com/danteteder/danteteder/main/banner.png
 [react]: http://reactjs.org
 [zodbyte]: https://zodbyte.com
+[reading]: https://www.goodreads.com/user/show/141853850-dante-teder
 [firebase]: https://firebase.google.com
 [next]: https://nextjs.org
 [typescript]: https://www.typescriptlang.org
