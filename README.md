@@ -5,7 +5,7 @@
 👨🏼‍💻 building [danteteder][website]  &  [zodbyte][zodbyte]  
 🧠 learning [nextjs][next], [apollo][apollo], [typescript][typescript]  
 💜 loving [react][react], [firebase][firebase]  
-🌱 what i'm [reading][reading]
+📚 my [goodreads profile][reading]
 
 🏡 [website][website] **|** 
 ⚡ [company][zodbyte] **|** 
