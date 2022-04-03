@@ -1,6 +1,6 @@
 [![bg][banner]][website]
 
-### Aspiring software engineer & entrepreneur
+### Software engineer & entrepreneur
 
 👨🏼‍💻 building [danteteder][website]  &  [zodbyte][zodbyte]  
 🧠 learning [nextjs][next], [apollo][apollo], [typescript][typescript]  
