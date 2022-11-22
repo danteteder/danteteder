@@ -27,4 +27,4 @@
 [instagram]: https://instagram.com/zodbyte
 [linkedin]: https://linkedin.com/in/dante-teder
 
-## 📫 Best way to reach me is usually via email **|** danteteder@gmail.com
+## 📫 Best way to reach me is usually via email danteteder@gmail.com
