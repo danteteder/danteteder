@@ -10,7 +10,6 @@
 
 🏡 [website][website] **|** 
 ⚡ [development firm][zodbyte] **|** 
-🌏 [fitness company][zodbyte] **|** 
 📷 [instagram][instagram] **|** 
 👔 [linkedin][linkedin]
 -----------------------------------------
