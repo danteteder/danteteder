@@ -4,7 +4,6 @@
 
 👨🏼‍💻 building [danteteder][website],  [vulpaire][vulpaire] & [zodbyte][zodbyte]  
 🧠 always learning   
-💜 currently loving [react][react], [firebase][firebase] & [spring-boot][spring-boot]   
 📚 my [goodreads profile][reading]  
 
 
