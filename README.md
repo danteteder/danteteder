@@ -1,15 +1,12 @@
-[![bg][banner]][website]
+### Full-Stack Software Engineer & Entrepreneur
 
-### Software engineer & entrepreneur
-
-👨🏼‍💻 building [danteteder][website],  [vulpaire][vulpaire] & [zodbyte][zodbyte]  
-🧠 always learning   
+👨🏼‍💻 building [danteteder][website] & [zodbyte][zodbyte]  
+🧠 always learning & trying to optimize life  
 📚 my [goodreads profile][reading]  
 
 
-🏡 [website][website] **|** 
+🏡 [personal website][website] **|** 
 ⚡ [development firm][zodbyte] **|** 
-📷 [instagram][instagram] **|** 
 👔 [linkedin][linkedin]
 -----------------------------------------
 
