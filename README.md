@@ -1,8 +1,7 @@
-### Full-Stack Software Engineer & Entrepreneur
+# Full-Stack Software Engineer & Entrepreneur
 
 👨🏼‍💻 building [danteteder][website] & [zodbyte][zodbyte]  
 🧠 always learning & trying to optimize life  
-📚 [goodreads profile][reading]  
 -----------------------------------------
 
 
@@ -11,6 +10,9 @@
 ⚡ [zodbyte.com][zodbyte]
 
 👔 [linkedin][linkedin]
+
+📚 [goodreads][reading]  
+
 
 -----------------------------------------
 
@@ -23,4 +25,4 @@
 [instagram]: https://instagram.com/zodbyte    
 [linkedin]: https://linkedin.com/in/dante-teder
 
-## 📫 Reach me via email danteteder@gmail.com
+### 📫 Reach me via email danteteder@gmail.com
