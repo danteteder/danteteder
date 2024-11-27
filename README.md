@@ -1,11 +1,11 @@
 # Full-Stack Software Engineer & Entrepreneur
 
 👨🏼‍💻 building [danteteder][website] & [zodbyte][zodbyte]  
-🧠 always learning & trying to optimize life  
+🧠 always learning & trying to optimize life, most of the code is private on this profile.
 -----------------------------------------
 
 
-🏡 [danteteder.com][website]
+🏡 [danteteder.com (outdated)][website]
 
 ⚡ [zodbyte.com][zodbyte]
 
